@@ -1,0 +1,642 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QuartusCode/HW4/simulation/modelsim
+vAM2302
+Z1 !s110 1591630444
+!i10b 1
+!s100 ^O<<Q_XiYTibfCAIMC5Ra1
+I2JK:@^Ul;a`VU7YCLAFm;1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1591618665
+8D:/QuartusCode/HW4/AM2302.v
+FD:/QuartusCode/HW4/AM2302.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1591630444.000000
+!s107 D:/QuartusCode/HW4/AM2302.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/AM2302.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@m2302
+vAM2302_master
+R1
+!i10b 1
+!s100 YO0UGHJBB4I<^JFaf`MU^2
+I1OnXJQKLS5=MDRB<d5J<71
+R2
+R0
+w1591630442
+8D:/QuartusCode/HW4/AM2302_master.v
+FD:/QuartusCode/HW4/AM2302_master.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/HW4/AM2302_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/AM2302_master.v|
+!i113 1
+R5
+R6
+n@a@m2302_master
+vDW01_add
+Z7 !s110 1591630445
+!i10b 1
+!s100 BOnnH<IX8MT1eNLl9Jj>L1
+Im9KJB7bIMWY[1lT5ZK@_J0
+R2
+R0
+Z8 w1113840000
+8D:/QuartusCode/HW4/DW8051/DW01_add.v
+FD:/QuartusCode/HW4/DW8051/DW01_add.v
+Z9 L0 31
+R3
+r1
+!s85 0
+31
+Z10 !s108 1591630445.000000
+!s107 D:/QuartusCode/HW4/DW8051/DW01_add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW01_add.v|
+!i113 1
+R5
+R6
+n@d@w01_add
+vDW01_addsub
+R7
+!i10b 1
+!s100 gnF^@OaeF_V0cN^Y34;Ra0
+IGfJ9OjGg2Jn;=?za>;7<H1
+R2
+R0
+R8
+8D:/QuartusCode/HW4/DW8051/DW01_addsub.v
+FD:/QuartusCode/HW4/DW8051/DW01_addsub.v
+L0 36
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/QuartusCode/HW4/DW8051/DW01_addsub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW01_addsub.v|
+!i113 1
+R5
+R6
+n@d@w01_addsub
+vDW01_cmp2
+R7
+!i10b 1
+!s100 3dEWQNg3I4fbfBWk8HSko1
+IUaG8K9>1K7m[cJlK8_c]i3
+R2
+R0
+R8
+8D:/QuartusCode/HW4/DW8051/DW01_cmp2.v
+FD:/QuartusCode/HW4/DW8051/DW01_cmp2.v
+R9
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/QuartusCode/HW4/DW8051/DW01_cmp2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW01_cmp2.v|
+!i113 1
+R5
+R6
+n@d@w01_cmp2
+vDW01_sub
+R7
+!i10b 1
+!s100 jN0lBhaV19Z_nO6HeCflZ0
+I=0KgQcPc^7=5k2SKKJdLz2
+R2
+R0
+R8
+8D:/QuartusCode/HW4/DW8051/DW01_sub.v
+FD:/QuartusCode/HW4/DW8051/DW01_sub.v
+R9
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/QuartusCode/HW4/DW8051/DW01_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW01_sub.v|
+!i113 1
+R5
+R6
+n@d@w01_sub
+vDW02_mult
+R7
+!i10b 1
+!s100 j3_Nh9ej:h:<@08kRT5`i0
+IX_7VVQ6BWFU`7?OAXK;Hf0
+R2
+R0
+R8
+8D:/QuartusCode/HW4/DW8051/DW02_mult.v
+FD:/QuartusCode/HW4/DW8051/DW02_mult.v
+Z11 L0 33
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/QuartusCode/HW4/DW8051/DW02_mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW02_mult.v|
+!i113 1
+R5
+R6
+n@d@w02_mult
+vDW8051_alu
+R7
+!i10b 1
+!s100 T@amcF=S_jM=GPeTFl]Xc0
+IcK[6DggSHag^;T@IO^J1D3
+R2
+R0
+Z12 w1082044800
+8D:/QuartusCode/HW4/DW8051/DW8051_alu.v
+FD:/QuartusCode/HW4/DW8051/DW8051_alu.v
+L0 34
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_alu.v|
+!i113 1
+R5
+R6
+n@d@w8051_alu
+vDW8051_biu
+Z13 !s110 1591630446
+!i10b 1
+!s100 H?e[bTkB5;S;DZ4LUkf]h1
+I;QEK6k`beK^jfndoJMXJz1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_biu.v
+FD:/QuartusCode/HW4/DW8051/DW8051_biu.v
+L0 39
+R3
+r1
+!s85 0
+31
+Z14 !s108 1591630446.000000
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_biu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_biu.v|
+!i113 1
+R5
+R6
+n@d@w8051_biu
+vDW8051_control
+R13
+!i10b 1
+!s100 :ejN`>adSGYNeLRLI6he72
+I]7VS0L=]]YeAKZakl8hG23
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_control.v
+FD:/QuartusCode/HW4/DW8051/DW8051_control.v
+L0 73
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_control.v|
+!i113 1
+R5
+R6
+n@d@w8051_control
+vDW8051_core
+R13
+!i10b 1
+!s100 LNW4T68:c2WE20EmEEMLi2
+I69Zi6fFX^7a>@>@m9jnJB1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_core.v
+FD:/QuartusCode/HW4/DW8051/DW8051_core.v
+L0 40
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_core.v|
+!i113 1
+R5
+R6
+n@d@w8051_core
+vDW8051_cpu
+R13
+!i10b 1
+!s100 E4OX2j6K<2J0LThhmLUhb2
+I2[0n5B4nW<2<Donnl`Yeb0
+R2
+R0
+w1120110120
+8D:/QuartusCode/HW4/DW8051/DW8051_cpu.v
+FD:/QuartusCode/HW4/DW8051/DW8051_cpu.v
+Z15 L0 35
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_cpu.v|
+!i113 1
+R5
+R6
+n@d@w8051_cpu
+vDW8051_intr_0
+R13
+!i10b 1
+!s100 NY48f]>N6`WXnGCjOeHYK3
+I7A9R>JhzWkCj7HdJ2lC<T2
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_intr_0.v
+FD:/QuartusCode/HW4/DW8051/DW8051_intr_0.v
+L0 38
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_intr_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_intr_0.v|
+!i113 1
+R5
+R6
+n@d@w8051_intr_0
+vDW8051_intr_1
+R13
+!i10b 1
+!s100 AcX9T>johTfhZlhFl]caT0
+I=dEXnMRUh>P^J16bTjXji1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_intr_1.v
+FD:/QuartusCode/HW4/DW8051/DW8051_intr_1.v
+Z16 L0 42
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_intr_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_intr_1.v|
+!i113 1
+R5
+R6
+n@d@w8051_intr_1
+vDW8051_main_regs
+R13
+!i10b 1
+!s100 eY21mkcb?D;UJoBN?;Rko1
+Ib7B3C9fXRQmFO6HDX5JQ_2
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_main_regs.v
+FD:/QuartusCode/HW4/DW8051/DW8051_main_regs.v
+R9
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_main_regs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_main_regs.v|
+!i113 1
+R5
+R6
+n@d@w8051_main_regs
+vDW8051_op_decoder
+Z17 !s110 1591630447
+!i10b 1
+!s100 dPD675RVSg9MeJdJfQWg`3
+I<K6Aho]V9c;Aj^UKVBRBa1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_op_decoder.v
+FD:/QuartusCode/HW4/DW8051/DW8051_op_decoder.v
+L0 37
+R3
+r1
+!s85 0
+31
+Z18 !s108 1591630447.000000
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_op_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_op_decoder.v|
+!i113 1
+R5
+R6
+n@d@w8051_op_decoder
+vDW8051_serial
+R17
+!i10b 1
+!s100 h]OJdRzhhD6TK5Kf]z:`01
+I^TBWSTHcIz=8O<oGJGNdS1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_serial.v
+FD:/QuartusCode/HW4/DW8051/DW8051_serial.v
+R11
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_serial.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_serial.v|
+!i113 1
+R5
+R6
+n@d@w8051_serial
+vDW8051_shftreg
+R17
+!i10b 1
+!s100 FT<]^h:JKz6R5VZkDGM=M2
+I>CoA9aNl2TEFn0iR<HhWF3
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_shftreg.v
+FD:/QuartusCode/HW4/DW8051/DW8051_shftreg.v
+L0 41
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_shftreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_shftreg.v|
+!i113 1
+R5
+R6
+n@d@w8051_shftreg
+vDW8051_timer
+R17
+!i10b 1
+!s100 dh6E6BG9_1NE42NB9bON^2
+I5:iG[aGIV@jVajR:5mUVR1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_timer.v
+FD:/QuartusCode/HW4/DW8051/DW8051_timer.v
+R15
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_timer.v|
+!i113 1
+R5
+R6
+n@d@w8051_timer
+vDW8051_timer2
+R17
+!i10b 1
+!s100 `F2PK@:dkoiLVEYH[B0B_2
+Ibgi>nfcb3B9Y]BTiV5D=h1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_timer2.v
+FD:/QuartusCode/HW4/DW8051/DW8051_timer2.v
+R11
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_timer2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_timer2.v|
+!i113 1
+R5
+R6
+n@d@w8051_timer2
+vDW8051_timer_ctr
+R17
+!i10b 1
+!s100 396F7;`_iezm37bK]jzk10
+IGGV]ONglKf?8[:iKOE9UC1
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_timer_ctr.v
+FD:/QuartusCode/HW4/DW8051/DW8051_timer_ctr.v
+R15
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_timer_ctr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_timer_ctr.v|
+!i113 1
+R5
+R6
+n@d@w8051_timer_ctr
+vDW8051_u_ctr_clr
+Z19 !s110 1591630448
+!i10b 1
+!s100 =z5GiXjI`UNI7G;D<JC:21
+I_4cl_ngTSD_OKjNO2:OjP3
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_u_ctr_clr.v
+FD:/QuartusCode/HW4/DW8051/DW8051_u_ctr_clr.v
+R15
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_u_ctr_clr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_u_ctr_clr.v|
+!i113 1
+R5
+R6
+n@d@w8051_u_ctr_clr
+vDW8051_updn_ctr
+R19
+!i10b 1
+!s100 FZl]ekDkN6Yh]ZQcW<V@?0
+IiM;b6I[6flPA`FJ[Z@fOS0
+R2
+R0
+R12
+8D:/QuartusCode/HW4/DW8051/DW8051_updn_ctr.v
+FD:/QuartusCode/HW4/DW8051/DW8051_updn_ctr.v
+R16
+R3
+r1
+!s85 0
+31
+Z20 !s108 1591630448.000000
+!s107 D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_parameter.v|D:\QuartusCode\HW4\DW8051\.\DW8051\DW8051_package.inc|D:/QuartusCode/HW4/DW8051/DW8051_updn_ctr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/DW8051_updn_ctr.v|
+!i113 1
+R5
+R6
+n@d@w8051_updn_ctr
+vedge_detect
+R1
+!i10b 1
+!s100 o_?F_DjL;WkadhD_`b=PX0
+Iz4540lV6=genVkk7>IUS<1
+R2
+R0
+w1591621380
+8D:/QuartusCode/HW4/edge_detect.v
+FD:/QuartusCode/HW4/edge_detect.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/HW4/edge_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/edge_detect.v|
+!i113 1
+R5
+R6
+vext_mem
+R19
+!i10b 1
+!s100 e88DMj=Gbz8WQoDG2RCaj0
+INAZ?1LlRoaMSV?hgz^]=;2
+R2
+R0
+w1139493678
+8D:/QuartusCode/HW4/DW8051/ext_mem.v
+FD:/QuartusCode/HW4/DW8051/ext_mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/QuartusCode/HW4/DW8051/ext_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/ext_mem.v|
+!i113 1
+R5
+R6
+vint_mem
+R19
+!i10b 1
+!s100 IJ07_in53jG`gfbKb?1i<1
+I:h`aV]WffOS<iNG8A]`d10
+R2
+R0
+w1586246670
+8D:/QuartusCode/HW4/DW8051/int_mem.v
+FD:/QuartusCode/HW4/DW8051/int_mem.v
+L0 2
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/QuartusCode/HW4/DW8051/int_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/int_mem.v|
+!i113 1
+R5
+R6
+vrom_mem
+R19
+!i10b 1
+!s100 :EVN[dIRCa`3UgmVM1LRk0
+I<]1_F2WjRPdHQ9m1DMJ2O0
+R2
+R0
+w1591625007
+8D:/QuartusCode/HW4/DW8051/rom_mem.v
+FD:/QuartusCode/HW4/DW8051/rom_mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/QuartusCode/HW4/DW8051/rom_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/rom_mem.v|
+!i113 1
+R5
+R6
+vsfr_mem
+R19
+!i10b 1
+!s100 ChH>1>cRJ0kRVF^7>BHB=2
+IZS]WXg5^`9;NenOUfBCDg1
+R2
+R0
+w1586247182
+8D:/QuartusCode/HW4/DW8051/sfr_mem.v
+FD:/QuartusCode/HW4/DW8051/sfr_mem.v
+L0 2
+R3
+r1
+!s85 0
+31
+R20
+!s107 D:/QuartusCode/HW4/DW8051/sfr_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/sfr_mem.v|
+!i113 1
+R5
+R6
+vtb_8051
+R7
+!i10b 1
+!s100 1l<:GRLP@2EhXXQWkKaI73
+I>YXM<oM5GemnF?T@_JWET3
+R2
+R0
+w1591625436
+8D:/QuartusCode/HW4/DW8051/tb_8051.v
+FD:/QuartusCode/HW4/DW8051/tb_8051.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/HW4/DW8051/tb_8051.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/HW4/DW8051/tb_8051.v|
+!i113 1
+R5
+R6

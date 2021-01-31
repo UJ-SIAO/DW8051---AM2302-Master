@@ -1,0 +1,16 @@
+
+State Machine - |AM2302_master|state
+Name state.data state.response state.star state.idle state.complete 
+state.idle 0 0 0 0 0 
+state.star 0 0 1 1 0 
+state.response 0 1 0 1 0 
+state.data 1 0 0 1 0 
+state.complete 0 0 0 1 1 
+
+State Machine - |AM2302_master|next_state
+Name next_state.data next_state.response next_state.star next_state.idle next_state.complete 
+next_state.idle 0 0 0 0 0 
+next_state.star 0 0 1 1 0 
+next_state.response 0 1 0 1 0 
+next_state.data 1 0 0 1 0 
+next_state.complete 0 0 0 1 1 

@@ -1,0 +1,48 @@
+A51 MACRO ASSEMBLER  AM2302                                                               06/08/2020 15:27:16 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.00b
+OBJECT MODULE PLACED IN am2302.OBJ
+ASSEMBLER INVOKED BY: C:\Keil\C51\BIN\A51.EXE am2302.a51 SET(SMALL) DEBUG EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1             ORG 0
+0000 78FA              2             MOV R0,#250;
+0002 D8FE              3             DJNZ R0,$
+0004 78FA              4             MOV R0,#250;
+0006 D8FE              5             DJNZ R0,$
+                       6             
+                       7             
+0008 75E101            8             MOV 0E1H,#01H;   
+                       9             
+000B E5E1             10     j0:     MOV A,0E1H
+000D B411FB           11             CJNE A,#11H,j0;
+                      12             
+                      13             
+                      14                     
+0010 E5E2             15             MOV A,0E2H      
+0012 E5E3             16             MOV A,0E3H
+0014 E5E4             17             MOV A,0E4H
+0016 E5E5             18             MOV A,0E5H
+0018 E5E6             19             MOV A,0E6H
+                      20             
+                      21             
+001A 020B16           22       JMP 0B16H
+                      23       
+                      24             END
+A51 MACRO ASSEMBLER  AM2302                                                               06/08/2020 15:27:16 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+J0 . . . . . . . .  C ADDR   000BH   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

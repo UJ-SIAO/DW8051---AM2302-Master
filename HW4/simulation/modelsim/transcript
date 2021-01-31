@@ -1,0 +1,31 @@
+# Compile of AM2302.v was successful.
+# Compile of AM2302_master.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of tb_8051.v was successful.
+# Compile of DW01_add.v was successful.
+# Compile of DW01_addsub.v was successful.
+# Compile of DW01_cmp2.v was successful.
+# Compile of DW01_sub.v was successful.
+# Compile of DW02_mult.v was successful.
+# Compile of DW8051_alu.v was successful.
+# Compile of DW8051_biu.v was successful.
+# Compile of DW8051_control.v was successful.
+# Compile of DW8051_core.v was successful.
+# Compile of DW8051_cpu.v was successful.
+# Compile of DW8051_intr_0.v was successful.
+# Compile of DW8051_intr_1.v was successful.
+# Compile of DW8051_main_regs.v was successful.
+# Compile of DW8051_op_decoder.v was successful.
+# Compile of DW8051_serial.v was successful.
+# Compile of DW8051_shftreg.v was successful.
+# Compile of DW8051_timer.v was successful.
+# Compile of DW8051_timer_ctr.v was successful.
+# Compile of DW8051_timer2.v was successful.
+# Compile of DW8051_u_ctr_clr.v was successful.
+# Compile of DW8051_updn_ctr.v was successful.
+# Compile of ext_mem.v was successful.
+# Compile of int_mem.v was successful.
+# Compile of rom_mem.v was successful.
+# Compile of sfr_mem.v was successful.
+# 29 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.tb_8051

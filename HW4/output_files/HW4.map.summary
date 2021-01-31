@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jun 08 23:45:24 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : HW4
+Top-level Entity Name : AM2302_master
+Family : Cyclone IV E
+Total logic elements : 363
+    Total combinational functions : 316
+    Dedicated logic registers : 159
+Total registers : 159
+Total pins : 29
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QuartusCode/HW4/simulation/modelsim
+vAM2302_master
+Z1 !s110 1591625267
+!i10b 1
+!s100 JI78c<gR;kXO9M>H80TTj1
+IZ:<XliR9CBHVU4kEkZ<=@1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1591624709
+8D:/QuartusCode/HW4/AM2302_master.v
+FD:/QuartusCode/HW4/AM2302_master.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1591625267.000000
+!s107 D:/QuartusCode/HW4/AM2302_master.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/HW4|D:/QuartusCode/HW4/AM2302_master.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/QuartusCode/HW4
+Z7 tCvgOpt 0
+n@a@m2302_master
+vedge_detect
+R1
+!i10b 1
+!s100 o_?F_DjL;WkadhD_`b=PX0
+I=2:GV>?d>[kNBhz5eU=1h2
+R2
+R0
+w1591621380
+8D:/QuartusCode/HW4/edge_detect.v
+FD:/QuartusCode/HW4/edge_detect.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/HW4/edge_detect.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/HW4|D:/QuartusCode/HW4/edge_detect.v|
+!i113 1
+R5
+R6
+R7
